@@ -1,4 +1,4 @@
-"@import '~antd/dist/antd.css';"
+
 :root{
     --text-primary:#000;
     --bgPrimary:#fff;
@@ -376,4 +376,4 @@ width: 70%;
     flex-direction: column;
     padding: 20px;
     align-items: center;
-}   
+}
